@@ -1,0 +1,32 @@
+button{
+    border-radius: 20px;
+    cursor: pointer;
+    box-sizing: content-box;
+}
+.buttonTime{
+    padding: 1rem 3rem;
+    margin: 1rem 1rem 1rem 0;
+    font-size: 15px;
+    font-weight: 900;
+    border: none;
+    background-color: #3775;
+    color: white;
+}
+.buttonHrate{
+    padding: 1rem 3rem;
+    margin: 1rem 1rem 1rem 0;
+    font-size: 15px;
+    font-weight: 900;
+    border: none;
+    background-color: #377556;
+    color: white;
+}
+.button{
+    padding: 1rem 3rem;
+    margin: 1rem 1rem 1rem 0;
+    font-size: 15px;
+    font-weight: 900;
+    border: none;
+    background-color: #234;
+    color: white;
+}
